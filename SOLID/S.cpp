@@ -64,7 +64,8 @@ public:
 };
 
 
-
+// This class will save data to database and if furthur required 
+// can be save to file as only one function need to be changed 
 class InvoiceDb:public Invoice{
     Invoice invoice;
 public:
@@ -76,6 +77,8 @@ public:
     }
 };
 
+// This class will generate the invoice as per the required format 
+// and can be changed as per the furthure requirements
 class displayInvoice:public Invoice{
     Invoice invoice;
 public:
