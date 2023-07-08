@@ -52,6 +52,7 @@ class SaveInvoice{
 };  
 
 
+
 class saveToDatabase:public SaveInvoice{
 public:
     void save(Invoice invoice) {
