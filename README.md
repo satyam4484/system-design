@@ -11,4 +11,5 @@
     - [Observable](<Observer Design Pattern/Observable>)
     - [Observer](<Observer Design Pattern/Observer>)
     - [Store](<Observer Design Pattern/Store.cpp>)
+- [Decorator Design Pattern](<Decorator Design pattern>)
     
