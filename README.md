@@ -16,4 +16,5 @@
 - [Abstract Factory Design Pattern](<Abstract Factory Design Pattern>)
 - [Snakes and Ladder](<Snake Ladder Game>)
 - [Chain of Responsibility Design Pattern](<Chain of Responsibility Design pattern>)
+- [Proxy Design Pattern](<proxy design patter>)
     
