@@ -39,7 +39,7 @@ public:
     }
 
     void saveToFile() {
-        // further requirements comes to save to file 
+        // further requirements comes to save to file
     }
 };
 
@@ -49,7 +49,7 @@ public:
 // interface in c++ is implemented using abstract class in c++
 class SaveInvoice{
     virtual void save(Invoice invoice) =0;
-};  
+};
 
 
 
@@ -71,6 +71,6 @@ public:
 // *********************************************************************************
 
 int main() {
-    
+
     return 0;
 }
