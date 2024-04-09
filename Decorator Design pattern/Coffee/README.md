@@ -1,0 +1,3 @@
+## Problem Statement: Coffee Shop Application System Design
+
+Design a coffee shop application system that allows customers to order various types of coffee drinks with customizable options such as milk, sugar, or flavorings. The system should efficiently manage menu items, handle customer orders, process payments securely, and provide a smooth user experience. Additionally, the system should support customization of orders, maintain order history for customers, and integrate with a payment gateway for secure transactions.

@@ -1,0 +1,3 @@
+## Problem Statement: Pizza Ordering System Design
+
+Design a pizza ordering system that allows customers to order pizzas with customizable toppings. The system should accommodate various combinations of toppings, and adding new toppings or combinations should be straightforward without requiring modifications to existing code. It should provide a user-friendly interface for customers to select their preferred toppings and efficiently process orders. Additionally, the system should handle inventory management of toppings, ensure accurate pricing based on selected toppings, and support customization of orders according to customer preferences.
