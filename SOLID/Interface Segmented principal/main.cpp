@@ -42,8 +42,8 @@ public:
 class Chef : public RestaurantEmployee, public ChefInterface {
 public:
     void performDuties() override {
-        cookFood();
         decideMenu();
+        cookFood();
     }
 
     void cookFood() override {

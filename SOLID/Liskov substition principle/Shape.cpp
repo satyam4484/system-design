@@ -4,6 +4,7 @@ using namespace std;
 
 class Shape{
 public:
+    virtual ~Shape() = default;
     virtual double calculateArea() =0;
 };
 
